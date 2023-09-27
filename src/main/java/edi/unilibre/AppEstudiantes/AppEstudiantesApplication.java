@@ -1,0 +1,13 @@
+package edi.unilibre.AppEstudiantes;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AppEstudiantesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AppEstudiantesApplication.class, args);
+	}
+
+}
